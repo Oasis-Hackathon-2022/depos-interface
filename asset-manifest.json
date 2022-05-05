@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.550ef48e.css",
+    "main.js": "/website/static/js/main.5cc80de6.js",
+    "static/media/BG.png": "/website/static/media/BG.4e93818f40eb589260d4.png",
+    "static/media/FiraSans-Medium.ttf": "/website/static/media/FiraSans-Medium.d11d9e14e00fc1a96751.ttf",
+    "static/media/FiraSans-Regular.ttf": "/website/static/media/FiraSans-Regular.f4eb295ecc2fb842d61c.ttf",
+    "static/media/BG_main.png": "/website/static/media/BG_main.b010b8b3a7500a73b57b.png",
+    "index.html": "/website/index.html",
+    "main.550ef48e.css.map": "/website/static/css/main.550ef48e.css.map",
+    "main.5cc80de6.js.map": "/website/static/js/main.5cc80de6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.550ef48e.css",
+    "static/js/main.5cc80de6.js"
+  ]
+}
