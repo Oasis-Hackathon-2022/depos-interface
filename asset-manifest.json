@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/depos-interface/static/css/main.ee4700ec.css",
-    "main.js": "/depos-interface/static/js/main.630df025.js",
+    "main.js": "/depos-interface/static/js/main.415ee01e.js",
     "static/media/BG_main.png": "/depos-interface/static/media/BG_main.d8034a60a40db2bd0b52.png",
     "static/media/BG.png": "/depos-interface/static/media/BG.4e93818f40eb589260d4.png",
     "static/media/image1.png": "/depos-interface/static/media/image1.a90939ac347376bda229.png",
@@ -20,10 +20,10 @@
     "static/media/avatar7.png": "/depos-interface/static/media/avatar7.61a56af41d98ac6b7736.png",
     "index.html": "/depos-interface/index.html",
     "main.ee4700ec.css.map": "/depos-interface/static/css/main.ee4700ec.css.map",
-    "main.630df025.js.map": "/depos-interface/static/js/main.630df025.js.map"
+    "main.415ee01e.js.map": "/depos-interface/static/js/main.415ee01e.js.map"
   },
   "entrypoints": [
     "static/css/main.ee4700ec.css",
-    "static/js/main.630df025.js"
+    "static/js/main.415ee01e.js"
   ]
 }
