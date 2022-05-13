@@ -1,0 +1,11 @@
+build
+docs
+coverage
+dist
+tmp
+*.min.js
+*.bundle.*
+node_modules
+.eslintrc.js
+**/*.config.js
+public

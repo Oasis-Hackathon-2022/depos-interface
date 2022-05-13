@@ -1,0 +1,47 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "IAMOManager",
+  "sourceName": "contracts/AMOs/IAMOManager.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "asset_address",
+          "type": "address"
+        },
+        {
+          "internalType": "uint256",
+          "name": "asset_amount",
+          "type": "uint256"
+        }
+      ],
+      "name": "GiveAssetToAMO",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "asset_address",
+          "type": "address"
+        },
+        {
+          "internalType": "uint256",
+          "name": "asset_amount",
+          "type": "uint256"
+        }
+      ],
+      "name": "WithdrawAssetFromAMO",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
